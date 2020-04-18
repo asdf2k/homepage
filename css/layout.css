@@ -41,9 +41,9 @@
     padding: 2.5%;
 }
 
-#conetnet iframe {
+.content iframe {
   height: 68vh;
-  min-height: 700px;
+  max-height: 700px;
 }
 
 /* # sidebar */
