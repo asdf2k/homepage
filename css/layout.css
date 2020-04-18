@@ -20,11 +20,6 @@
     margin: 0 auto;
 }
 
-#container iframe {
-  height: 68vh;
-  max-height: 700px;
-}
-
 #header {
     width: 100%;
     height: 100px;
@@ -44,6 +39,11 @@
 
 .content div {
     padding: 2.5%;
+}
+
+#conetnet iframe {
+  height: 68vh;
+  min-height: 700px;
 }
 
 /* # sidebar */
