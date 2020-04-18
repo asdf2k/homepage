@@ -1,0 +1,72 @@
+/* ## random */
+
+/*
+#219181
+#ed504b
+#ffc18e
+
+#757575
+#a3a3a3
+#d6d6d6
+*/
+
+body {
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+.hide {
+    display: none;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+}
+
+a:link {
+    color: #000;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #000;
+}
+
+a:hover {
+    color: #CC2200;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+.a-badge-square:link {
+    padding: .2rem .4rem;
+    font-size: 87.5%;
+    color: #fff;
+    background-color: #212529;
+    text-decoration: none;
+}
+
+.a-badge-square:visited {
+    color: #fff;
+}
+
+.a-badge-square:hover {
+    color: #CC2200;
+    background-color: #f1f1f1;
+}
+
+.text-badge-square {
+    padding: .2rem .4rem;
+    font-size: 87.5%;
+    color: #fff;
+    background-color: #212529;
+    text-decoration: none;
+}
