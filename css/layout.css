@@ -43,6 +43,7 @@
 
 .content iframe {
   height: 68vh;
+  min-height: 400px;
   max-height: 700px;
 }
 
